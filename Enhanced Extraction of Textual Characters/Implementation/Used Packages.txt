@@ -1,0 +1,6 @@
+Used Python Packages:
+1. OpenCV python	[For Access our Camera]
+2. pyttsx3		[For Speech]
+3. easyocr		[To Detect the Text]
+4. Matplotlib		[Plot Text on Images]
+5. warnings		[For ignore the warnings]
